@@ -486,5 +486,6 @@ Built end-to-end as a demonstration of production-grade ML platform engineering:
 - Interactive frontend → AI assistant integration
 
 ---
+Railway deployed : accdentdectectionyolo-production.up.railway.app
 
 * Making every delivery predictable.*
